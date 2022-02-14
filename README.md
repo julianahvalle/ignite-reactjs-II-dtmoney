@@ -15,18 +15,21 @@
 </p>
 
 <br></br>
-## 📌 About the project
+# 📌 About the project
 <br></br>
 <p align="center">
   :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
-<br></br>
-## :camera: Screenshots
-  <img src="./Captura%20de%20tela%202022-02-14%20174740.png" width="400px">
-  <img src="./Captura%20de%20tela%202022-02-14%20174801.png" width="400px">
 
+# 📸 Screenshots
 <br></br>
-## :rocket: Technologies
+<div aling="inline">
+  <img src="./Captura%20de%20tela%202022-02-14%20174740.png" width="500px">
+  <img src="./Captura%20de%20tela%202022-02-14%20174801.png" width="500px">
+</div>
+
+# 🚀 Technologies
+<br></br>
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
@@ -34,8 +37,8 @@ This project was made using the follow technologies:
 * [Styled Components](https://styled-components.com/)
 * [MirageJS](https://miragejs.com/)
 
-<br></br>
-## :page_facing_up: License
+
+# 📑 License
 
 This project is under the [MIT license](./LICENSE).
 Made with 💜 by [Juliana Valle](https://www.linkedin.com/in/julianahvallefrasao/). 
